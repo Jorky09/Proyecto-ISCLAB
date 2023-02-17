@@ -1,6 +1,9 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <span class="inline-flex items-baseline">
+    <img alt="ISC logo" class="w-40 h-auto self-center items-center pb-4" src="./assets/ISCLogo.png">
+  </span>
+  <h1 class="text-[50px]">ISC LAB</h1>
+  <HelloWorld msg=""/>
 </template>
 
 <script>
